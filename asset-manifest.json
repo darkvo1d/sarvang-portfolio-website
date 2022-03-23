@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sarvang-portfolio-website/static/css/main.ac1eb8bb.css",
+    "main.js": "/sarvang-portfolio-website/static/js/main.767f360f.js",
+    "static/media/headshot-1.png": "/sarvang-portfolio-website/static/media/headshot-1.a60ff1bc3122801d9536.png",
+    "static/media/avatar1.jpg": "/sarvang-portfolio-website/static/media/avatar1.9df00342c061e1c30ea1.jpg",
+    "static/media/avatar2.jpg": "/sarvang-portfolio-website/static/media/avatar2.8f19835b35d62847cd6e.jpg",
+    "static/media/headshot.png": "/sarvang-portfolio-website/static/media/headshot.3cccc0d84b8f4d011691.png",
+    "static/media/avatar4.jpg": "/sarvang-portfolio-website/static/media/avatar4.47b7add9cd1c69bdba9e.jpg",
+    "static/media/tictactoe.png": "/sarvang-portfolio-website/static/media/tictactoe.ab22b0e888cdffbf779d.png",
+    "static/media/avatar3.jpg": "/sarvang-portfolio-website/static/media/avatar3.7a3845da0faa96c3bb55.jpg",
+    "static/media/fish-species.png": "/sarvang-portfolio-website/static/media/fish-species.77af332b1a3b3d10b36e.png",
+    "static/media/Sarvang_Resume.pdf": "/sarvang-portfolio-website/static/media/Sarvang_Resume.4e0be2633dca83df5ddc.pdf",
+    "static/media/portfolio4.jpg": "/sarvang-portfolio-website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/minesweeper.png": "/sarvang-portfolio-website/static/media/minesweeper.fe0094949ea0d9dd9152.png",
+    "index.html": "/sarvang-portfolio-website/index.html",
+    "main.ac1eb8bb.css.map": "/sarvang-portfolio-website/static/css/main.ac1eb8bb.css.map",
+    "main.767f360f.js.map": "/sarvang-portfolio-website/static/js/main.767f360f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac1eb8bb.css",
+    "static/js/main.767f360f.js"
+  ]
+}
