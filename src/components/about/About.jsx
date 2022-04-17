@@ -39,12 +39,10 @@ const about = () => {
           </div>
 
           <p>
-            Labore exercitation laboris ad exercitation proident magna commodo
-            veniam voluptate sunt. Irure laborum nisi exercitation commodo
-            sunt duis officia nostrud esse labore consectetur. Exercitation
-            officia aute exercitation exercitation irure elit esse pariatur
-            pariatur elit aute anim. Duis laboris adipisicing anim sit culpa
-            reprehenderit consequat sunt cillum aliqua.
+            Software Engineer with 3+ years of industrial experience having willingness to quickly grasp and adapt to new
+            technologies, along with working in both team and self-directed settings. My current focus is Machine Learning
+            and have aligned my curriculum towards the same. Understanding the concepts and applying the same in
+            projects is something that I constantly strive to do.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Lets Get in Touch</a>
