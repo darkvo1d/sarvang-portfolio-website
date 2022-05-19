@@ -20,6 +20,12 @@ import { Pagination } from "swiper";
 const Reviews = () => {
   const reviewData = [
     {
+      avatar: AVTR3,
+      name: "Erika Pilar",
+      review:
+        "Sarvang was a pleasure to work with and was a great team player. He communicated well with the team and never hesitated to bring up any issues to both team members and leaders. The team was highly confident with Sarvang’s quality of work and velocity. His positive attitude and energy always showed in meetings and in all of his interactions with colleagues.",
+    },
+    {
       avatar: AVTR1,
       name: "Thomas Bertin",
       review:
@@ -27,15 +33,9 @@ const Reviews = () => {
     },
     {
       avatar: AVTR2,
-      name: "Guillaume Reiublandou",
+      name: "Guillaume Rieublandou",
       review:
         "Pariatur labore ut amet id et aliquip sit. Consequat consectetur quis sit ea excepteur culpa qui. Veniam nostrud exercitation quis eu voluptate tempor excepteur velit aute minim pariatur fugiat. Reprehenderit dolor sint aute qui id aliquip proident excepteur consequat reprehenderit cillum.",
-    },
-    {
-      avatar: AVTR3,
-      name: "Erika Pilar",
-      review:
-        "Consequat est reprehenderit adipisicing do nulla ut eu anim cupidatat pariatur adipisicing enim in sunt. Aute est anim elit Lorem non Lorem esse fugiat eu duis eu aliqua veniam ullamco. Pariatur exercitation ex dolor fugiat anim nulla voluptate. Magna consectetur culpa eu consectetur dolore dolor sit ea. Magna in dolore excepteur elit enim. Aliqua officia cupidatat aute anim cillum officia. Id mollit fugiat pariatur velit ea elit adipisicing irure.",
     },
     {
       avatar: AVTR4,
