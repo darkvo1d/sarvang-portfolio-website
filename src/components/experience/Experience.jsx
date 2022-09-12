@@ -113,6 +113,13 @@ const Experience = () => {
                 <small className='text-light'>Worked On</small>
               </div>
             </article>
+            <article className='experience__detail'>
+              <MdVerified className='experience__icon'/>
+              <div>
+                <h4>Tableau</h4>
+                <small className='text-light'>Beginner</small>
+              </div>
+            </article>
 
           </div>
         </div>

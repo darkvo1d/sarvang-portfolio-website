@@ -35,7 +35,7 @@ const Reviews = () => {
       avatar: AVTR2,
       name: "Guillaume Rieublandou",
       review:
-        "Pariatur labore ut amet id et aliquip sit. Consequat consectetur quis sit ea excepteur culpa qui. Veniam nostrud exercitation quis eu voluptate tempor excepteur velit aute minim pariatur fugiat. Reprehenderit dolor sint aute qui id aliquip proident excepteur consequat reprehenderit cillum.",
+        "If I had to describe Sarvang in two words, it would be smart and eager. Throughout his stay with us he was always interested to take on new challenges and overcame them with brio. He has been a dependable team player too, working as readily in groups as a solo, and will complete leftover work at night - because he likes it. Treat him well, he deserves it!",
     },
     {
       avatar: AVTR4,

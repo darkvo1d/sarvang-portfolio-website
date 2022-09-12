@@ -1,6 +1,6 @@
 import { React, useState } from "react";
 import "./nav.css";
-import { AiFillHome } from "react-icons/ai";
+import { AiFillHome, AiOutlineFundProjectionScreen } from "react-icons/ai";
 import { MdWork } from "react-icons/md";
 import { FaCommentDots, FaUser } from "react-icons/fa";
 import { MdSendToMobile } from "react-icons/md";
@@ -20,7 +20,7 @@ const Nav = () => {
         <MdWork />
       </a>
       <a href="#projects" onClick={() => setActiveNav('#projects')} className={activeNav === "#projects" ? 'active': ''}>
-        <AiFillHome />
+        <AiOutlineFundProjectionScreen />
       </a>
       <a href="#reviews" onClick={() => setActiveNav('#reviews')} className={activeNav === "#reviews" ? 'active': ''}>
         <FaCommentDots />

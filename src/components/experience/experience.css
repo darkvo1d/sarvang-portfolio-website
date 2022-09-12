@@ -35,6 +35,10 @@
   gap: 1rem;
 }
 
+.experience__detail h4 {
+  margin:0
+}
+
 .experience__icon {
   margin-top: 6px;
   color: var(--color-primary);
